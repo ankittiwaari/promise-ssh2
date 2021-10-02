@@ -52,4 +52,4 @@ class PromiseSSh {
         })
     }
 }
-export default PromiseSSh;
+module.exports = PromiseSSh;
