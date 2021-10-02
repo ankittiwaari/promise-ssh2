@@ -1,5 +1,5 @@
 {
-  "name": "@ankittiwaari/promisify-ssh2",
+  "name": "@ankittiwaari/promise-ssh2",
   "version": "1.0.0",
   "description": "A simple and lightweight Promise wrapper for ssh2",
   "main": "index.js",
