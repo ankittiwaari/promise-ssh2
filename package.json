@@ -1,0 +1,31 @@
+{
+  "name": "@ankittiwaari/promisify-ssh2",
+  "type": "module",
+  "version": "1.0.2",
+  "description": "A simple and lightweight Promise wrapper for ssh2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ssh2",
+    "promis",
+    "promisify ssh2",
+    "ssh2 promise",
+    "promise ssh2"
+  ],
+  "author": "Ankit Tiwari",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "ssh2": "^1.4.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankittiwaari/promisify-ssh2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ankittiwaari/promisify-ssh2/issues"
+  },
+  "homepage": "https://github.com/ankittiwaari/promisify-ssh2#readme"
+}
