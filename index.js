@@ -1,4 +1,4 @@
-import {Client} from 'ssh2';
+const {Client} = require('ssh2');
 class PromiseSSh {
     conn;
     constructor(sshDetails) {
