@@ -1,7 +1,7 @@
 {
   "name": "@ankittiwaari/promisify-ssh2",
   "type": "module",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "A simple and lightweight Promise wrapper for ssh2",
   "main": "index.js",
   "scripts": {
