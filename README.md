@@ -1,5 +1,5 @@
 # Promisify ssh2
-## A simple and light weight promise wrapper for ssh2.
+## A simple and lightweight promise wrapper for ssh2.
 
 ### Example
 ```js
