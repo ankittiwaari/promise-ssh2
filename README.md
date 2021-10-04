@@ -3,7 +3,7 @@
 
 ### Example
 ```js
-const promisifySSH = require('@ankittiwaari/promisify-ssh2');
+const promisifySSH = require('@ankittiwaari/promise-ssh2');
 (async () => {
     try {
         let p = new promisifySSH({
