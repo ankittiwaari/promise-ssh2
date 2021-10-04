@@ -26,3 +26,6 @@ const promisifySSH = require('@ankittiwaari/promise-ssh2');
 
 })();
 ```
+The constructor accepts all the connection parameters accepted by `connect()` method of [ssh2](https://www.npmjs.com/package/ssh2)
+## Raising issues
+Raise all the issues at https://github.com/ankittiwaari/promise-ssh2/issues
